@@ -407,7 +407,7 @@ class MainWindow(tk.Frame):
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("File -> C/C++ array")
+    root.title("Py3_FileToCArray")
     root.resizable(False, False)
 
     MainWindow(root)
